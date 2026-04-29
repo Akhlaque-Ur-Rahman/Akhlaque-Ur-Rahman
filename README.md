@@ -19,7 +19,7 @@
 
 ## 🚀 Currently Shipping
 
-> **Green City Platform** — Full-stack civic/real-estate workflow (Next.js + NestJS + PostgreSQL), deployed with Docker on VPS. Shipping May 2026.
+> **Green City Platform** — Full-stack civic/real-estate workflow (Next.js + Node.js + PostgreSQL), deployed with Docker on VPS. Shipping May 2026.
 
 ---
 
@@ -65,7 +65,7 @@
 - 📈 PostgreSQL query optimization → **~40% reduction in API latency**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
