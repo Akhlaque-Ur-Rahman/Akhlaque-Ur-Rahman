@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_HANDLE">
+  <a href="https://www.linkedin.com/in/akhlaque-ur-rahman-siddique/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ikhlakhrehman@gmail.com">
@@ -86,8 +86,3 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akhlaque-Ur-Rahman&show_icons=true&hide_border=true&count_private=true&theme=github_dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhlaque-Ur-Rahman&layout=compact&hide_border=true&theme=github_dark" height="150"/>
-</p>
